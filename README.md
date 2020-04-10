@@ -11,29 +11,9 @@ Below I will leave a list of the things I would like to add for now. I will expl
 If you have any question, I am just one email away: fpl_secondmoonsbay@tutamail.com
 
 
-## Implementations List
+## Implementations Request List
 
 1. FIX VULNERABILITY ISSUES:
-
-Upgrade minimist to version 1.2.3 or later. For example:
-
-"dependencies": {
-  "minimist": ">=1.2.3"
-}
-or…
-"devDependencies": {
-  "minimist": ">=1.2.3"
-}
-Always verify the validity and compatibility of suggestions with your codebase.
-
-Details
-
-CVE-2020-7598
-
-high severity
-Vulnerable versions: >= 1.0.0, < 1.2.3
-Patched version: 1.2.3
-minimist before 1.2.2 could be tricked into adding or modifying properties of Object.prototype using a "constructor" or "proto" payload.
 
 2. SPANISH AND ENGLISH LANGUAGE OPTIONS:
     - I would like to add a Spanish version of the web.
