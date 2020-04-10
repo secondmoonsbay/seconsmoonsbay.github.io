@@ -20,16 +20,19 @@ If you have any question, I am just one email away: fpl_secondmoonsbay@tutamail.
     - I want the buttons to be right under the Welcome to nova main title.
     - The buttons should have the same format as the others on the page.
     - Users should be able to toggle between both languages very easily, in order to get the webpage in the desired one.
+    
+2.     
 
-2. PROJECTS IMAGE BOX FIXING
+3. PROJECTS IMAGE BOX FIXING
     - As you can see, the box from the Send your character to Nova is bigger than the image.
     - I want that fixed so the box and the image stay together as it does on the top.
     - Basically I want the bottom aligned and not surpassing as you can see that happens.
 
+4. FEATURED PROJECT 2
 
-3. FEATURED PROJECT 2
-
-
+5. ADD PAGE FOR ONLINE FIRST 5 CHAPTER
+    - I want to add the first 5 chapters of the book to my webpage.
+    - I want a button right next to the photo of the first book that says 
 
 
 ## Copyright and License
