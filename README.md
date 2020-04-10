@@ -2,7 +2,7 @@
 
 First of all, thank you for considering helping me build my webpage. I have some very basic and rudimental knowledge of programming, but everything I want to do exceeds by far my skills.
 
-As you will be able to read from the README, I downloaded this code from a FREE webpage that allows you to alter and use it to build your own site.
+As you will be able to read from the Template Info, I downloaded this code from a free webpage that allows you to alter and use it to build your own site.
 
 I thought it looked very nice and was responsive and very well laid out for me to have a strong start.
 
